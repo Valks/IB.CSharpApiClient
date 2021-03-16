@@ -18,9 +18,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\packages\client\CSharpAPI.csproj" />
+    <ProjectReference Include="..\..\..\tws-api\source\csharpclient\client\CSharpAPI.csproj" />
   </ItemGroup>
-
+  
   <ItemGroup>
     <None Include="..\..\LICENSE">
       <Pack>True</Pack>
